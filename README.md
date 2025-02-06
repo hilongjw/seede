@@ -1,4 +1,7 @@
-# Seede
+# Seede AI
+
+## Website
+[Seede AI](https://seede.ai/)
 
 Seede helps you create a poster in 1 min
 
